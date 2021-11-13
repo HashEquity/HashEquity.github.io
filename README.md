@@ -1,4 +1,6 @@
-## HashEquity
+# HashEquity
+
+## Overview
 
 HashEquity is a new enterprise application project under development to manage the next new paradigm in shareholder equity. HashEquity is a security token that replaces the traditional utility of company “stock”, imputing ownership, dividends, voting-rights, and trading features to company shareholders. It is built on the Hedera network.
 
