@@ -36,6 +36,12 @@ experience drawn from Rockwell Collins, Skyworks Solutions, Micrel
 Semiconductor and teaching and research assistantships at Iowa State 
 University.
 
-### Curtis Mayberry <a href = "https://www.linkedin.com/in/curtis-mayberry-1364a130?challengeId=AQGvPGIWwHCIuQAAAX0s12VRDUXdXa0Po_HAK6rLQk_o-lzk6lUwmfyvjG6qWWKkV2cKCbQpuFVQ0JCeVXgG1uUdq1kdEB7_kA&submissionId=4c44a897-7945-b816-244c-e7f2074b3304" ><img src="linkedin.png" alt="LinkedIn Profile" style="float: left" /></a>
+<a href = "https://www.linkedin.com/in/jonathan-crandall-a927445/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
+
+### Curtis Mayberry 
+
+
+
+<a href = "https://www.linkedin.com/in/curtis-mayberry-1364a130/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
 
