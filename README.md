@@ -19,11 +19,11 @@ exchanges and brokerages.
 
 ## White Paper
 
-Get the white paper
+Get [the white paper](HashEquity_Overview.pdf)
 
 ## About Us
 
-### Jonathan Crandall ![linkedin](linkedin.png)
+### Jonathan Crandall
 
 Jonathan is an engineering project manager with Skyworks developing radio 
 frequency power amplifier module chipsets supporting 5G, IoT and mobile 
@@ -40,7 +40,9 @@ University.
 
 ### Curtis Mayberry 
 
-
+Curtis is an electrical and software engineer developing enterprise 
+applications for both crypto equity applications and electronic design 
+automation.
 
 <a href = "https://www.linkedin.com/in/curtis-mayberry-1364a130/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
