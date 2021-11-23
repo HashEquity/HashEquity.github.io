@@ -43,9 +43,13 @@ University.
 
 <a href = "https://www.linkedin.com/in/curtis-mayberry-1364a130/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
-Curtis is an electrical and software engineer developing enterprise 
-applications for both crypto equity applications and electronic design 
-automation.
+Curtis is an electrical and software engineer leading development of 
+enterprise applications for both electronic design automation and crypto 
+equity applications.  He has extensive experience introducing innovative 
+enterprise applications.  He has taken multiple applications from concept 
+to enterprise deployment. He is dedicated to continuous improvement of both 
+the applications he develops and the teams he leads. He earned a BSEE from 
+Iowa State University and an MSEE from Georgia Tech. 
 
 
 
