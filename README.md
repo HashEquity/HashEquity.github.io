@@ -17,13 +17,17 @@ and settlement time, ABFT security, crystal clear transparency, SEC compliance
 by design, and 24/7 liquidity at a fraction of the cost of traditional 
 exchanges and brokerages.
 
+Get [the overview slides](https://github.com/HashEquity/HashEquity.github.io/raw/main/HashEquity_Overview.pdf)
+
 ## White Paper
 
-Get [the white paper](HashEquity_Overview.pdf)
+Get [the white paper](HashEquity_white_paper.pdf)
 
 ## About Us
 
 ### Jonathan Crandall
+
+<a href = "https://www.linkedin.com/in/jonathan-crandall-a927445/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
 Jonathan is an engineering project manager with Skyworks developing radio 
 frequency power amplifier module chipsets supporting 5G, IoT and mobile 
@@ -36,14 +40,30 @@ experience drawn from Rockwell Collins, Skyworks Solutions, Micrel
 Semiconductor and teaching and research assistantships at Iowa State 
 University.
 
-<a href = "https://www.linkedin.com/in/jonathan-crandall-a927445/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
 ### Curtis Mayberry 
 
-Curtis is an electrical and software engineer developing enterprise 
-applications for both crypto equity applications and electronic design 
-automation.
-
 <a href = "https://www.linkedin.com/in/curtis-mayberry-1364a130/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
 
+Curtis is an electrical and software engineer leading development of 
+enterprise applications for both electronic design automation and crypto 
+equity applications.  He has extensive experience introducing innovative 
+enterprise applications.  He has taken multiple applications from concept 
+to enterprise deployment. He is dedicated to continuous improvement of both 
+the applications he develops and the teams he leads. He earned a BSEE from 
+Iowa State University and an MSEE from Georgia Tech. 
 
+
+
+### Ajinkya More
+
+<a href = "https://www.linkedin.com/in/more12/" ><img src="linkedin.png" width="18" alt="LinkedIn Profile" /></a>
+
+Ajinkya has worked as a radio design engineer at Skyworks Solutions since 
+2018 and has an avid interest in blockchain technology and the decentralized 
+economy. Prior to joining Skyworks he worked as a research engineer for 3 
+years in India for the Centre for Development of Telematics.
+
+Ajinkya earned a masters degree from UC Davis in Electrical and Computer 
+Engineering. His strengths include theory of computation, machine learning 
+and programming languages.
