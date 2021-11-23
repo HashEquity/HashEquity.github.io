@@ -15,7 +15,7 @@ and settlement time, ABFT security, crystal clear transparency, SEC compliance
 by design, and 24/7 liquidity at a fraction of the cost of traditional 
 exchanges and brokerages.
 
-Get [the overview slides](HashEquity_overview.pdf)
+Get [the overview slides](https://github.com/HashEquity/HashEquity.github.io/raw/main/HashEquity_Overview.pdf)
 
 ## White Paper
 
